@@ -1,7 +1,7 @@
-create table student
+create table estudiante
 (
    id integer not null,
-   name varchar(255) not null,
-   passport_number varchar(255) not null,
+   nombre varchar(255) not null,
+   mail varchar(255) not null,
    primary key(id)
 );

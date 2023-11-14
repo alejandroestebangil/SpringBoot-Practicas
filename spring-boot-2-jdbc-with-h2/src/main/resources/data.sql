@@ -1,2 +1,5 @@
-insert into student values(10001,'Ranga', 'E1234567');
-insert into student values(10002,'Ravi', 'A1234568');
+insert into estudiante
+values(10001,'Alejandro Esteban', 'alejandro@gmail.com');
+
+insert into estudiante
+values(10002,'Esteban Alejandro', 'esteban@gmail.com');
